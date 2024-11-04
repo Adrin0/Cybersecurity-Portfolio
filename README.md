@@ -3,6 +3,6 @@ Welcome to my cybersecurity portfolio! Here, you’ll find a collection of proje
 
 ## Projects:
 1. [Secure Password Manager](password-manager)
-2. [Website Vulnerabilty Scanner](website-vulnerability-scanner)
+2. [Website Vulnerability Scanner](website-vulnerability-scanner)
 
 Feel free to explore each folder for more details.

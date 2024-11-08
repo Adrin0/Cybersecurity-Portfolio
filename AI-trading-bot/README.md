@@ -11,7 +11,7 @@ This project is a crypto trading bot that utilizes the Lumibot framework and Alp
 ## Installation
 1. Clone the Repository
 ``` bash
-    git clone https://github.com/yourusername/Crypto-Trading-Bots.git
+    git clone https://github.com/Adrin0/Cybersecurity-Portfolio/tree/main/AI-trading-bot
     cd Crypto-Trading-Bots
 ```
 2. Install Dependencies

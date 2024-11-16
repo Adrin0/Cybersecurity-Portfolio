@@ -77,8 +77,9 @@ The following tools were used throughout the walkthrough:
 
 1. **Initial Nmap Scan**  
     Identify open ports and services on the target machine:
-    ```bash nmap -sS -sV -Pn 192.168.56.10``
-    ![Nmap Scan](path-to-file)
+    ```bash 
+    nmap -sS -sV -Pn 192.168.56.10
+![Nmap Scan](path-to-file)
 
 2. **Nikto Web Vulnerability Scan**
     Scan for potential vulnerabilities:

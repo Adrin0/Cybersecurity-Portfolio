@@ -1,0 +1,15 @@
+# Threat Intelligence Libraries
+requests==2.31.0
+pandas==2.0.3
+numpy==1.26.0
+
+# API Interaction
+virustotal-api==1.1.12
+abuseipdb==1.0.1  # Hypothetical library, adjust as needed
+
+# JSON and YAML Parsing
+pyyaml==6.0
+jsonschema==4.19.0
+
+# Flask (Optional - if hosting APIs or tools)
+flask==3.1.4

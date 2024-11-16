@@ -1,0 +1,9 @@
+# Log Management and Processing
+elasticsearch==8.10.2
+kibana==8.10.2
+filebeat==8.10.2
+
+# Python Libraries
+elasticsearch-py==8.10.2
+filebeat-output==1.0.0  # Hypothetical library, adjust if different
+pyyaml==6.0
